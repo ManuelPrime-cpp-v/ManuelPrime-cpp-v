@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/ravensbjorn-banner.png"
+       alt="Ravensbjorn — Intelligent Speed"
+       width="100%">
+</p>
 # Manuel Prime | Computational Performance Engineering
 
 > **INTELLIGENT SPEED.**
