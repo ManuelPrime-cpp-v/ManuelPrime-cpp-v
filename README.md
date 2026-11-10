@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="./ravensbjorn-banner.png"
+ <p align="center">
+  <img src="./Ravensbjorn-banner.png"
        alt="Ravensbjorn — Intelligent Speed"
        width="100%">
 </p>
