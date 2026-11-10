@@ -45,6 +45,7 @@ My focus is not simply making software work. It's understanding how it works, id
 - Memory and cache hierarchies
 - Parallel and heterogeneous computing
 - High-performance computing
+- Quantitative Development (Quantitative FInance)
 
 ## Current Mission
 
