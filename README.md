@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ravensbjorn-banner.png"
+  <img src="Ravensbjorn%20Github%20Profile%20in%20Cyan%20Noir.png"
        alt="Ravensbjorn — Intelligent Speed"
        width="100%">
 </p>
