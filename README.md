@@ -51,8 +51,6 @@ The raven represents observation, intelligence, adaptability, patience, and stra
 
 The visual identity draws inspiration from Nordic and Viking aesthetics, interpreted through a modern technological lens.
 
-It should feel like a sophisticated engineering environment rather than a gaming interface.
-
 ## INTELLIGENT SPEED
 
 This is the philosophy behind the identity.
