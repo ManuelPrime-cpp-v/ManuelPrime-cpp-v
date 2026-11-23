@@ -777,6 +777,13 @@ There is a long journey ahead, and this repository is part of documenting it.
   <sub>Built with curiosity, discipline, and an obsession with understanding how things work.</sub>
 </p>
 
+### `0x03` // FEATURED WORKSPACE & REPOSITORIES
+
+| Repository | Description |
+| :--- | :--- |
+| **[`intelligent-speed-labs`](https://github.com)** | Practical experiments in C, C++, and Python measuring memory behavior, data structures, and compiler optimizations. |
+| **[`nvim-config`](https://github.com)** | Cross-platform, IDE-grade Neovim configuration deployable across Linux and Termux via a universal symlink installer. |
+
 ### `0x04` // ACTIVE PROFILING & CURRENT FOCUS
 
 ```yaml
