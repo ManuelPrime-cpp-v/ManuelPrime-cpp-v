@@ -769,3 +769,8 @@ current_objective: "Measure. Understand. Optimize."
 <div align="center">
   <img src="https://jacoblin.cool" alt="LeetCode Telemetry" />
 </div>
+
+### `0x07` // LIVE LAB ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
