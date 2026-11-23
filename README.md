@@ -776,3 +776,14 @@ There is a long journey ahead, and this repository is part of documenting it.
 <p align="center">
   <sub>Built with curiosity, discipline, and an obsession with understanding how things work.</sub>
 </p>
+
+### `0x05` // TELEMETRY & ACTIVITY
+
+<div align="center">
+  <img height="165" src="https://vercel.app" alt="GitHub Telemetry" />
+  <img height="165" src="https://vercel.app" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://demolab.com" alt="Contribution Streak" />
+</div>
