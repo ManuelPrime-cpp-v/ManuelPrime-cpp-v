@@ -554,43 +554,6 @@ DASH should eventually help me monitor these objectives without becoming a distr
 
 ---
 
-# 11 — THE DESIGN LANGUAGE
-
-DASH should visually represent the RAVENSBJORN identity.
-
-### Visual direction
-
-A modern computational engineering interface with a restrained Nordic soul.
-
-Imagine:
-- A dark engineering laboratory.
-- Graphite and forged-metal surfaces.
-- Subtle icy-cyan illumination.
-- Precision-engineered panels.
-- Technical typography.
-- Minimalist raven-inspired motifs.
-- Clean data visualization.
-- A calm, focused atmosphere.
-
-### Colour palette
-
-| Role | Colour | Hex |
-|---|---|---|
-| Primary background | Near-black | `#080B10` |
-| Secondary background | Deep slate | `#101720` |
-| Panels | Graphite | `#151E29` |
-| Main text | Ice white | `#E8EEF5` |
-| Secondary text | Cool grey | `#91A0B2` |
-| Primary accent | Icy cyan | `#55D6E8` |
-| Secondary accent | Electric blue | `#77A9FF` |
-
-### Typography
-
-Preferred directions:
-- Inter or a similar modern sans-serif.
-- JetBrains Mono for technical information.
-- Restrained display typography for important headings.
-
 ### Design principles
 
 1. Visual clarity over decoration.
@@ -701,10 +664,6 @@ DASH/
     └── integration/
 ```
 
-This is a suggested structure, not a description of the repository's verified current files.
-
-Adapt it to the actual technology stack and implementation. Do not create empty folders or unnecessary abstractions just to match this example.
-
 ---
 
 # 15 — DOCUMENTATION AND CONTRIBUTION
@@ -731,19 +690,12 @@ The intention is to maintain a project that can be understood, improved, and ext
 
 # 16 — A NOTE ON THE LONG-TERM VISION
 
-DASH is personal, but the philosophy behind it is broader.
-
 I want to build a working environment that supports a lifetime of learning and engineering.
 
 Today, that means organizing university studies, mastering C and Python, developing Linux proficiency, and building small projects.
 
 Tomorrow, it could mean tracking advanced systems research, compiler experiments, performance benchmarks, GPU investigations, or hardware acceleration projects.
 
-The interface should not need to abandon its identity as the technical journey becomes more sophisticated.
-
-It should grow with the person using it.
-
-The long-term objective is to make DASH a reliable environment for thinking, organizing, learning, experimenting, and building.
 
 ---
 
@@ -752,8 +704,6 @@ The long-term objective is to make DASH a reliable environment for thinking, org
 > "Do not optimize what you do not understand. Do not measure what you cannot reproduce. Do not build complexity without purpose."
 
 RAVENSBJORN is a commitment to understanding systems rather than merely interacting with them.
-
-DASH is one instrument in that process.
 
 It exists to support the work behind the ambition: the studying, coding, reading, experimenting, measuring, questioning, and improving.
 
