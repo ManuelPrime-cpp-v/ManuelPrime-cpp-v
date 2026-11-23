@@ -777,6 +777,25 @@ There is a long journey ahead, and this repository is part of documenting it.
   <sub>Built with curiosity, discipline, and an obsession with understanding how things work.</sub>
 </p>
 
+### `0x04` // ACTIVE PROFILING & CURRENT FOCUS
+
+```yaml
+system_identity:
+  brand: RAVENSBJORN
+  philosophy: INTELLIGENT SPEED
+  direction: Computational Performance Engineering (CPE)
+
+active_investigations:
+  - layer: "Systems & Memory"
+    focus: "Low-level C/C++ memory management, cache locality, and profiling"
+  - layer: "Hardware & Logic"
+    focus: "Digital logic design, Verilog/SystemVerilog, and FPGA acceleration"
+  - layer: "Environment & Tooling"
+    focus: "Linux internals, Wayland/Niri workflows, and cross-platform Neovim"
+
+current_objective: "Measure. Understand. Optimize."
+```
+
 ### `0x05` // TELEMETRY & ACTIVITY
 
 <div align="center">
