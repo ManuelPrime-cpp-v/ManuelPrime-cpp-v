@@ -769,6 +769,10 @@ current_objective: "Measure. Understand. Optimize."
 <div align="center">
   <img src="https://jacoblin.cool" alt="LeetCode Telemetry" />
 </div>
+<div align="center">
+  <img src="./assets/github-metrics.svg" alt="RAVENSBJORN Engineering Metrics" width="100%" />
+</div>
+
 
 ### `0x07` // LIVE LAB ACTIVITY
 
