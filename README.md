@@ -787,3 +787,6 @@ There is a long journey ahead, and this repository is part of documenting it.
 <div align="center">
   <img src="https://demolab.com" alt="Contribution Streak" />
 </div>
+<div align="center">
+  <img src="https://githubusercontent.com" alt="Contribution Snake Animation" />
+</div>
