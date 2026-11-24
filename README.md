@@ -761,8 +761,9 @@ current_objective: "Measure. Understand. Optimize."
 </div>
 
 <div align="center">
-  <img src="https://demolab.com" alt="Contribution Streak" />
+  <img src="https://rshah.org" alt="GitHub 2D Contribution Graph" width="100%" />
 </div>
+
 <div align="center">
   <img src="https://githubusercontent.com" alt="Contribution Snake Animation" />
 </div>
