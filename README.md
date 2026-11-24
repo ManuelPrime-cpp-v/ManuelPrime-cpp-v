@@ -767,7 +767,7 @@ current_objective: "Measure. Understand. Optimize."
 <div align="center">
   <img src="https://githubusercontent.com" alt="Contribution Snake Animation" />
 </div>
-<div align="center">
+
   <img src="https://jacoblin.cool" alt="LeetCode Telemetry" />
 </div>
 <div align="center">
