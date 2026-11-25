@@ -756,21 +756,6 @@ current_objective: "Measure. Understand. Optimize."
 ### `0x05` // TELEMETRY & ACTIVITY
 
 <div align="center">
-  <img height="165" src="https://vercel.app" alt="GitHub Telemetry" />
-  <img height="165" src="https://vercel.app" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://rshah.org" alt="GitHub 2D Contribution Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://githubusercontent.com" alt="Contribution Snake Animation" />
-</div>
-
-  <img src="https://jacoblin.cool" alt="LeetCode Telemetry" />
-</div>
-<div align="center">
   <img src="./assets/github-metrics.svg" alt="RAVENSBJORN Engineering Metrics" width="100%" />
 </div>
 
