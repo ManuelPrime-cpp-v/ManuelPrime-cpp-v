@@ -758,6 +758,9 @@ current_objective: "Measure. Understand. Optimize."
 <div align="center">
   <img src="./assets/github-metrics.svg" alt="RAVENSBJORN Engineering Metrics" width="100%" />
 </div>
+<div align="center">
+  <img src="./assets/streak-2d.svg" alt="2D Contribution Streak" width="100%" />
+</div>
 
 
 ### `0x07` // LIVE LAB ACTIVITY

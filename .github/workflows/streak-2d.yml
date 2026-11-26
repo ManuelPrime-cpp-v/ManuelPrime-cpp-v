@@ -1,0 +1,30 @@
+name: Generate 2D Contribution Streak
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_2d_streak.py"
+
+jobs:
+  build-2d-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate 2D SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_2d_streak.py
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+          git add assets/streak-2d.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update 2D contribution streak SVG" && git push)
