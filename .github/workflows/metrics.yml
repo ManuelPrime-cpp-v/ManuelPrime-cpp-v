@@ -27,4 +27,6 @@ jobs:
           plugin_habits_from: 100
           plugin_habits_charts: yes
           plugin_isocalendar: yes
+          plugin_isocalendar_type: calendar
           plugin_isocalendar_duration: half-year
+          
